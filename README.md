@@ -33,7 +33,7 @@ Uma API para o sistema de controle de gastos pessoais.
 
 *Exemplo de requisição*
 
-```json
+```js
 {
     valor: 100.59,
     data: '2023-12-27',
